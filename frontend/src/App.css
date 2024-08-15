@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  align-items: center;
+  width: max-content;
+  margin-left: 32%;
+  background-color:transparent;
+  overflow-y: auto;
+  overflow-x: hidden;
+  backdrop-filter: blur(30px);
+
+}
